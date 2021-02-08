@@ -8,6 +8,8 @@ verify_ssl = true
 [packages]
 django = "*"
 autopep8 = "*"
+whitenoise = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.8"
